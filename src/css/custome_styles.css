@@ -1,0 +1,5 @@
+/* styles.css */
+@import './card_styles/card_styles.css';
+@import './carusel_styles/carusel_style.css';
+@import './templates_styles/header_styles.css';
+@import './templates_styles/footer_styles.css';
